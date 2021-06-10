@@ -285,7 +285,7 @@ img {
 
 /* start code footer */
 .footer {
-  background-color: #065a9b;
+  background-color: rgba(16, 20, 43, 0.9);
   color: #fff;
   height: 100px;
   padding: 40px 40px 40px 100px;
